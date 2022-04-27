@@ -1,0 +1,194 @@
+body {
+    background-color: black;
+    font-family: arial;
+}
+
+.top {
+    background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701605555-768x576.jpg");
+    background-color: black;
+    min-height: 400px;
+    background-size: 100% 100%;
+    color: white;
+}
+
+.logo {
+    background-color: black;
+    color: red;
+    padding: 5px 20px 5px;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 30px;
+    display: inline-block;
+}
+
+.top-left-button {
+    color: white;
+    border-style: solid;
+    border-color: white;
+    position: absolute;
+    right: 150px;
+    display: inline-block;
+    padding: 5px;
+}
+
+.top-right-button {
+    color: white;
+    border-style: solid;
+    border-color: red;
+    background-color: red;
+    position: absolute;
+    right: 50px;
+    display: inline-block;
+    padding: 5px;
+}
+
+.middle-h2 {
+    position: relative;
+    text-align: center;
+    background-color: black;
+}
+
+.middle-h3 {
+    position: relative;
+    text-align: center;
+    background-color: black;
+}
+
+.middle-h4 {
+    position: relative;
+    text-align: center;
+    background-color: black;
+}
+
+.white-box {
+    background-color: white;
+    border-style: solid;
+    border-color: white;
+    position: relative;
+    display: inline-block;
+    padding: 5px;
+    color: gray;
+    padding-right: 200px;
+    left: 40%;
+}
+
+.red-button {
+    background-color: red;
+    border-style: solid;
+    border-color: red;
+    position: relative;
+    display: inline-block;
+    padding: 5px;
+    left: 40%;
+}
+
+.not-top {
+    align-self: center;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+.right-img {
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    left: 60%;
+}
+
+.left-h2 {
+    display: inline-block;
+    position: relative;
+    left: 30%;
+}
+
+.left-h3 {
+    display: inline-block;
+    position: relative;
+    left: 30%;
+}
+
+.left-img {
+    width: 200px;
+    height: 100px;
+    position: relative;
+    left: 30%;
+    
+}
+
+.right-h2 {
+    display: inline-block;
+    position: absolute;
+    left: 60%;
+    
+}
+
+.right-h3 {
+    display: inline-block;
+    position: relative;
+    bottom: 30px;
+    left: 60%;    
+}
+
+.list {
+    background-color: darkgray;
+    padding: 10px 400px 10px 10px;
+    margin: 3px 200px 3px;
+    position: relative;
+}
+
+.plus-1 {
+    display: inline-block;
+    position: absolute;
+    right: 220px;
+    top: 1355px;
+}
+
+.plus-2 {
+    display: inline-block;
+    position: absolute;
+    right: 220px;
+    top: 1400px;
+}
+
+.plus-3 {
+    display: inline-block;
+    position: absolute;
+    right: 220px;
+    top: 1445px;
+}
+
+.plus-4 {
+    display: inline-block;
+    position: absolute;
+    right: 220px;
+    top: 1490px;
+}
+
+.plus-5 {
+    display: inline-block;
+    position: absolute;
+    right: 220px;
+    top: 1535px;
+}
+
+.plus-6 {
+    display: inline-block;
+    position: absolute;
+    right: 220px;
+    top: 1580px;
+}
+
+.bottom {
+    margin-left: 150px;
+    display: inline-block;
+}
+
+.bottom-left-button {
+    color: white;
+    border-style: solid;
+    border-color: white;
+    margin-left: 150px;
+    display: inline-block;
+    padding: 5px;
+}
